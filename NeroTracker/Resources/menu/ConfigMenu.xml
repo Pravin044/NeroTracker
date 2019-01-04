@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--For all properties see: http://developer.android.com/guide/topics/resources/menu-resource.html-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  
+  
+  <item android:id="@+id/action_config"
+         android:showAsAction="always"
+        android:title="Config"
+        android:text="Config"/>
+  <item android:id="@+id/action_about"
+         android:showAsAction="always"
+        android:title="About"
+        android:text="About"/>
+</menu>
